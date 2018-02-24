@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-fastrde-checkgps",
+  "version": "1.1.3",
+  "description": "Checks to see if GPS is enabled or not",
+  "cordova": {
+    "id": "cordova-plugin-fastrde-checkgps",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolinger/cordova-plugin-fastrde-checkgps.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "fastrde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rolinger/cordova-plugin-fastrde-checkgps/issues"
+  },
+  "homepage": "https://github.com/rolnger/cordova-plugin-fastrde-checkgps#readme"
+}
